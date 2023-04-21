@@ -1,0 +1,19 @@
+{
+  "perfil": [
+    {
+      "nombre": "Jose Rafael Salcedo",
+      "email": "jrsalcedob@yahoo.com.co",
+      "id": 1
+    },
+    {
+      "nombre": "Yaneth Briñez",
+      "email": "yb@gmail.com",
+      "id": "192fe9ba-a2a4-4702-9ed6-38793fde5fc0"
+    },
+    {
+      "nombre": "Cristian Federico",
+      "email": "cf@hotmail.com",
+      "id": "14bcbfeb-838f-4d09-b3dd-d9af502d81a4"
+    }
+  ]
+}
